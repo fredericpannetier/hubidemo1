@@ -10,6 +10,8 @@
     'depends': ['product'],
     'description': "",
     'data': [
+        'security/mrp_security.xml',
+        'security/ir.model.access.csv',
         'data/mrp_data.xml',
         'views/mrp_views_menus.xml',
         'views/mrp_bom_views.xml',
